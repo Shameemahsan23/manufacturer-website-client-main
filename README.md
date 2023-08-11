@@ -41,7 +41,5 @@
 
 ## Admin Login Details
 
-Email: shamimreza@gmail.com
-Password: shamim123
 
 # manufacturer-website-client-main
