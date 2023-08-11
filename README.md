@@ -1,6 +1,6 @@
-# DEWALT-BD | Client Side Code
+ Client Side Code
 
-Live Site [https://dewalt-bd.web.app](https://dewalt-bd.web.app).
+
 
 ## Features & Functionalities
 
@@ -44,5 +44,4 @@ Live Site [https://dewalt-bd.web.app](https://dewalt-bd.web.app).
 Email: shamimreza@gmail.com
 Password: shamim123
 
-Product Reference Website [https://www.dewalt.com/](https://www.dewalt.com/).
 # manufacturer-website-client-main
